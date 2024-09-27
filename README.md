@@ -117,12 +117,11 @@ This report provides a detailed competitor analysis, highlighting strengths, wea
 
 ### *Pie Chart Representation of Domain Competition Levels*
 
-![SEO Competitor Domain Competition](https://example.com/SEO_competitor_chart.png)
 
 The chart below illustrates the domain competition levels among competitors, showcasing the strength of Esselenergy in the market and highlighting opportunities for Toutche to gain a foothold.
+https://docs.google.com/spreadsheets/d/1DO2yTiuM5vQiHHrwCT7ojAi_wr08J2Vq_vq_UWNbxN0/edit?usp=sharing 
 
-plaintext
-(Note: Insert Pie Chart showing the percentage distribution of domain competition levels for each competitor.)
+(Link to Pie Chart showing the percentage distribution of domain competition levels for each competitor.)
 
 
 ---
